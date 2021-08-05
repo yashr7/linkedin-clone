@@ -1,4 +1,4 @@
-#Linkedin Clone
+# Linkedin Clone
 
 ## A Linkedin Clone built using React, Redux and Firebase.
 
